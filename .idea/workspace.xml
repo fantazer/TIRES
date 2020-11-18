@@ -11,28 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33fc4985-0812-4917-a972-022b8742b981" name="Default" comment="fix modal content">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/style.styl" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/style.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/fonts/rouble-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/fonts/rouble-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/fonts/rouble-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/fonts/rouble-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/fonts/rouble-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/html/block_html/_script.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/html/block_html/_script.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/html/block_html/_style.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/html/block_html/_style.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/html/block_html/_svg.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/html/block_html/_svg.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/html/block_html/_mixin.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/html/block_html/_mixin.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/html/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/html/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/css/sprite.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/css/sprite.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/svg/arrow-down-fat.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/svg/arrow-down-fat.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/svg/arrow-up-fat.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/svg/arrow-up-fat.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/svg/soc-telegram.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/svg/soc-telegram.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/svg/soc-whatsapp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/svg/soc-whatsapp.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/svg/soc-youtube.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/svg/soc-youtube.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/img/svg/sprite.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/img/svg/sprite.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,14 +183,11 @@
       <workItem from="1605007559153" duration="4310000" />
       <workItem from="1605081207670" duration="600000" />
       <workItem from="1605105871702" duration="8314000" />
-      <workItem from="1605171478577" duration="5062000" />
-    </task>
-    <task id="LOCAL-00004" summary="add readme">
-      <created>1539196292222</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1539196292222</updated>
+      <workItem from="1605171478577" duration="6446000" />
+      <workItem from="1605180971788" duration="6000" />
+      <workItem from="1605348868997" duration="285000" />
+      <workItem from="1605349184879" duration="15000" />
+      <workItem from="1605440445986" duration="3335000" />
     </task>
     <task id="LOCAL-00005" summary="add new icon">
       <created>1539342063000</created>
@@ -544,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604407709952</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="fix modal content">
+      <created>1605177994316</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1605177994317</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -613,10 +601,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix modal content" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1753" y="-40" key="CommitChangelistDialog2" timestamp="1605177964517">
+    <state x="-1753" y="-40" key="CommitChangelistDialog2" timestamp="1605177990980">
       <screen x="-2560" y="-193" width="2560" height="1400" />
     </state>
-    <state x="-1753" y="-40" key="CommitChangelistDialog2/-2560.-193.2560.1400/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984@-2560.-193.2560.1400" timestamp="1605177964517" />
+    <state x="-1753" y="-40" key="CommitChangelistDialog2/-2560.-193.2560.1400/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984@-2560.-193.2560.1400" timestamp="1605177990980" />
     <state x="-1753" y="-40" key="CommitChangelistDialog2/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984/-2560.-193.2560.1400@-2560.-193.2560.1400" timestamp="1604407708310" />
     <state x="-1753" y="-103" key="CommitChangelistDialog2/0.0.1920.1040/1920.166.1280.984/-2560.-256.2560.1400@-2560.-256.2560.1400" timestamp="1602233651659" />
     <state x="-1407" y="408" key="Github.ShareDialog" timestamp="1605115253297">
@@ -632,21 +620,21 @@
     </state>
     <state x="-1779" y="150" key="SettingsEditor/-2560.-193.2560.1400/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984@-2560.-193.2560.1400" timestamp="1605115236117" />
     <state x="-1779" y="87" key="SettingsEditor/0.0.1920.1040/1920.166.1280.984/-2560.-256.2560.1400@-2560.-256.2560.1400" timestamp="1599741730816" />
-    <state x="-1959" y="128" key="Vcs.Push.Dialog.v2" timestamp="1604407711953">
+    <state x="-1959" y="128" key="Vcs.Push.Dialog.v2" timestamp="1605177999049">
       <screen x="-2560" y="-193" width="2560" height="1400" />
     </state>
-    <state x="-1959" y="128" key="Vcs.Push.Dialog.v2/-2560.-193.2560.1400/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984@-2560.-193.2560.1400" timestamp="1603535060135" />
+    <state x="-1959" y="128" key="Vcs.Push.Dialog.v2/-2560.-193.2560.1400/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984@-2560.-193.2560.1400" timestamp="1605177999049" />
     <state x="-1959" y="128" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984/-2560.-193.2560.1400@-2560.-193.2560.1400" timestamp="1604407711953" />
     <state x="-1959" y="65" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.166.1280.984/-2560.-256.2560.1400@-2560.-256.2560.1400" timestamp="1600361287895" />
     <state x="674" y="257" width="572" height="527" key="find.popup" timestamp="1600160853016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="257" width="572" height="527" key="find.popup/-2560.-256.2560.1400/0.0.1920.1040/1920.166.1280.984@0.0.1920.1040" timestamp="1600160853016" />
-    <state x="-1617" y="122" width="672" height="678" key="search.everywhere.popup" timestamp="1605176758170">
-      <screen x="-2560" y="-193" width="2560" height="1400" />
+    <state x="943" y="-846" width="672" height="504" key="search.everywhere.popup" timestamp="1605442571466">
+      <screen x="0" y="-1080" width="2560" height="1040" />
     </state>
     <state x="-1617" y="122" width="672" height="678" key="search.everywhere.popup/-2560.-193.2560.1400/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984@-2560.-193.2560.1400" timestamp="1605176758170" />
-    <state x="943" y="-846" width="672" height="504" key="search.everywhere.popup/-2560.-193.2560.1400/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984@0.-1080.2560.1040" timestamp="1604937654081" />
+    <state x="943" y="-846" width="672" height="504" key="search.everywhere.popup/-2560.-193.2560.1400/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984@0.-1080.2560.1040" timestamp="1605442571466" />
     <state x="707" y="234" width="672" height="504" key="search.everywhere.popup/-2560.-256.2560.1400/0.0.1920.1040/1920.166.1280.984@0.0.1920.1040" timestamp="1600160836008" />
     <state x="-1617" y="122" width="672" height="679" key="search.everywhere.popup/0.0.1920.1040/0.-1080.2560.1040/1920.52.1280.984/-2560.-193.2560.1400@-2560.-193.2560.1400" timestamp="1605023500961" />
     <state x="-1617" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.166.1280.984/-2560.-256.2560.1400@-2560.-256.2560.1400" timestamp="1600361303901" />

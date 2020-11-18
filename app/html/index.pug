@@ -4,6 +4,7 @@ include block_html/_include.pug
 .main-wrap-cont
 	// На сайте тулбар и контейнер уже есть
 	// все что будет ниже вставь в <div class="container">
+	// В скриптах подлючается jquery если в проекте он уже есть не подлючай
 	.b-banner-img
 		img(src="img/banner-1.jpg", alt="")
 	.b-section-title.type--up 6 причин совершить покупку через интернет магазин
@@ -159,6 +160,4 @@ include block_html/_include.pug
 	.b-btn-row-mid
 		a(href="#").b-btn.b-btn-fix Отзывы
 		
-			
-
 include ./block_html/_script.pug
